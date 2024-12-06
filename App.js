@@ -7,7 +7,7 @@ export default function App() {
       <Text style={styles.heading}>My Bio</Text>
       <Text>Name: Pooja Salar</Text>
       <Text>Contact: poojasalar998@gmail.com</Text>
-      <Text>Interests: Coding, Traveling, Reading</Text>
+      <Text>Mo : 6476464198</Text>
       <Text>Skills: React Native, JavaScript, Node.js</Text>
     </View>
   );
