@@ -16,7 +16,13 @@ export default function App() {
         <Text style={styles.cardText}>📱 Phone: +1(647)-646-1234</Text>
       </View>
 
-     
+   <View style={styles.card}>
+        <Text style={styles.cardTitle}>Education</Text>
+        <Text style={styles.cardText}>🎓 Bachelor of Engineering</Text>
+        <Text style={styles.cardText}>🏫  Sal college of Engineering</Text>
+        <Text style={styles.cardText}>📅 Graduation: 2022</Text>
+      </View>
+
       {/* Skills Section */}
       <View style={styles.card}>
         <Text style={styles.cardTitle}>Skills</Text>
